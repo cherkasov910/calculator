@@ -2,6 +2,10 @@ from colorama import init
 from colorama import Fore, Back, Style
 init()
 
+from colorama import init
+from colorama import Fore, Back, Style
+init()
+
 print(Back.YELLOW)
 
 what = input("Что делаем? (+,-): " )
@@ -19,7 +23,7 @@ elif what == "-":
     c = a - b
     print("Результат: " + str(c))
 else:
-    print("Выполнена неверная операция!"
+    print("Выполнена неверная операция!")
 
 
 
