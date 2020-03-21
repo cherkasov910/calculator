@@ -1,7 +1,4 @@
 
-
-
-
 from colorama import init
 from colorama import Fore, Back, Style
 init()
@@ -24,3 +21,6 @@ elif what == "-":
     print("Результат: " + str(c))
 else:
     print("Выполнена неверная операция!")
+
+
+
