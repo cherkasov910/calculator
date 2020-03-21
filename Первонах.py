@@ -7,7 +7,7 @@ print(Back.YELLOW)
 
 what = input("Что делаем? (+,-): " )
 
-print(Back.GREEN)
+print(Back.GREEN
 
 
 
