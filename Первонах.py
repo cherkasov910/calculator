@@ -9,8 +9,7 @@ what = input("Что делаем? (+,-): " )
 
 print(Back.GREEN)
 
-a = float(input("Введи первое число"))
-b = float(input("Введи второе число"))
+
 
 
 
