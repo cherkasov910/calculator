@@ -20,3 +20,5 @@ if what == "+":
 elif what == "-":
     c = a - b
     print("Результат: " + str(c))
+else:
+    print("Выполнена неверная операция!")
